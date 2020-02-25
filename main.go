@@ -18,5 +18,5 @@ package main
 import "github.com/NoahBraam/qrgen/cmd"
 
 func main() {
-  cmd.Execute()
+	cmd.Execute()
 }
